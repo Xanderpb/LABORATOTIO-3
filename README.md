@@ -24,6 +24,9 @@
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+![circuito](https://user-images.githubusercontent.com/93951775/143691504-4161c3d0-1c25-46c5-ba71-0ea7030d7cdc.JPG)
+
+
 ![limpio](https://user-images.githubusercontent.com/93951775/143691419-6852c2c4-7ce0-4545-960f-fb5f3aa9178e.JPG)
 
 ## 4. Video 
