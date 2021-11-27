@@ -24,7 +24,7 @@
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
-[lab 3.pdf](https://github.com/Xanderpb/LABORATOTIO-3/files/7612167/lab.3.pdf)
+![limpio](https://user-images.githubusercontent.com/93951775/143691419-6852c2c4-7ce0-4545-960f-fb5f3aa9178e.JPG)
 
 ## 4. Video 
 
