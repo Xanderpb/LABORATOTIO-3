@@ -21,6 +21,11 @@
 
 ## 2. Marco teorico
 
+
+![LABORATORIO 3](https://user-images.githubusercontent.com/93928146/143964687-5fe8c38c-7e6b-43ec-964c-dd074105c4a4.PNG)
+
+
+
 ### Diseño y materiales del circuito
 ![ejemplocircuito](https://user-images.githubusercontent.com/93224166/143963120-d3d6917f-f8cb-4f91-b536-3846ca8dd01b.png)
 ![materiales](https://user-images.githubusercontent.com/93224166/143963122-76efcdc1-f3a1-4d4b-b647-d93f75a4016c.png)
