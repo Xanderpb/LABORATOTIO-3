@@ -64,6 +64,39 @@ https://youtu.be/7i8mBkmhsBw
 ## 5. Conclusiones
 
 
+
+
+
+
+-El análisis en nodos, se basa en la determinación de los voltajes presentes en cada nodo del circuito.
+
+
+-Se recuerda que un nodo es la unión de dos o más componentes. 
+
+
+-Ser ordenado es de gran prioridad en el análisis de nodos puesto que si no se tiene una buena organización algunos valores saldrán mal.
+
+
+-La ley de Kirchhoff es primordial en el cálculo de nodos en un circuito electrónico y que su desfasamiento simplemente se debe al margen de error de las resistencias que componen el circuito. 
+
+
+-La importancia en el análisis de  nodos en un circuito eléctrico es que cuando al analizar el nodo de referencia que el valor del voltaje es cero, también saber los voltajes que regulan cada una de las resistencias de un circuito y la corriente que entra tiene que ser igual a la corriente que salen en todo el circuito .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 6. Bibliografia
 
 
