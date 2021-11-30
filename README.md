@@ -14,9 +14,16 @@
 
 
 ### Objetivo general
+Comprobar experimentalmente el Análisis de Nodos, mediante la utilizacion de simulatorios y laboratorio virtuales para una mejor comprension del tema.
+
 
 
 ### Objetivos especificos
+* Hacer un circuito electrico en Tinkercad
+* Tomar mediciones en el circuito.
+* Analizar el circuito realizado para calcular de forma analitica mediante formulas y leyes de Kirchhoff.
+* Comparar los resultados analiticos con los medidos.
+* Sacar conclusiones
 
 
 ## 2. Marco teorico
@@ -39,6 +46,11 @@
 
 ### Calculo realizados 
 ![limpio](https://user-images.githubusercontent.com/93951775/143691419-6852c2c4-7ce0-4545-960f-fb5f3aa9178e.JPG)
+![sitemaecu](https://user-images.githubusercontent.com/93224166/143964748-3f0ffbab-3ce5-432f-bba6-58ded49cb91b.png)
+
+![resultadosis](https://user-images.githubusercontent.com/93224166/143964747-a3130552-cb96-4cda-9861-3aaf9642e5b5.png)
+
+
 
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
@@ -50,25 +62,6 @@
 https://youtu.be/7i8mBkmhsBw
 
 ## 5. Conclusiones
--El análisis en nodos, se basa en la determinación de los voltajes presentes en cada nodo del circuito.
-
-
--Se recuerda que un nodo es la unión de dos o más componentes. 
-
-
--Ser ordenado es de gran prioridad en el análisis de nodos puesto que si no se tiene una buena organización algunos valores saldrán mal.
-
-
--La ley de Kirchhoff es primordial en el cálculo de nodos en un circuito electrónico y que su desfasamiento simplemente se debe al margen de error de las resistencias que componen el circuito. 
-
-
-
--La importancia en el análisis de  nodos en un circuito eléctrico es que cuando al analizar el nodo de referencia que el valor del voltaje es cero, también saber los voltajes que regulan cada una de las resistencias de un circuito y la corriente que entra tiene que ser igual a la corriente que salen en todo el circuito .
-
-
-
-
-
 
 
 ## 6. Bibliografia
