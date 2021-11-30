@@ -55,7 +55,7 @@ Comprobar experimentalmente el Análisis de Nodos, mediante la utilizacion de si
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
-
+![tabla lab3](https://user-images.githubusercontent.com/93951775/144067016-3497b9f4-405e-4eef-8e52-8baae2d264d2.JPG)
 
 
 ## 4. Video 
