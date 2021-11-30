@@ -66,3 +66,7 @@ https://youtu.be/7i8mBkmhsBw
 
 ## 6. Bibliografia
 
+
+https://prezi.com/xvu61yjgerf_/importancia-del-analisis-de-nodos-y-su-historia/
+
+https://www.buenastareas.com/materias/metodo-de-nodos-conclusiones/0
